@@ -2,19 +2,14 @@
 
 This is a consolidated Repository That Contains All Assignments As Submodules.
 
-## Assignments and Results
+## Assignment Repositories
 
-1. Homography
-    [Homography Readme](Homography/README.md)
+1. [Homography Repository](https://github.com/AbhinandanVellanki/Homography)
 
-2. Optical Flow (Lucas Kanade)
-    [Lucas Kanade Readme](Lucas-Kanade/README.md)
+2. [Lucas Kanade Repository](https://github.com/AbhinandanVellanki/Lucas-Kanade)
 
-3. 3D Reconstruction
-    [Reconstruction Readme](3D-Reconstruction/README.md)
+3. [3D Reconstruction Repository](https://github.com/AbhinandanVellanki/3D-Reconstruction)
 
-4. Photometric Stereo
-    [Photometry Readme](Photometry/README.md)
+4. [Photometry Repository](https://github.com/AbhinandanVellanki/Photometry)
 
-5. Deep Learning
-    [Photometry Readme](MNIST-Character-Translation/README.md)
+5. [Deep Learning Repository](https://github.com/AbhinandanVellanki/MNIST-Character-Translation)
