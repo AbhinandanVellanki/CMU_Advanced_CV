@@ -1,15 +1,20 @@
 [submodule "Homography"]
 	path = Homography
 	url = https://github.com/AbhinandanVellanki/Homography
+	branch = main
 [submodule "Lucas-Kanade"]
 	path = Lucas-Kanade
 	url = https://github.com/AbhinandanVellanki/Lucas-Kanade
+	branch = main
 [submodule "Photometry"]
 	path = Photometry
 	url = https://github.com/AbhinandanVellanki/Photometry
+	branch = main
 [submodule "3D-Reconstruction"]
 	path = 3D-Reconstruction
 	url = https://github.com/AbhinandanVellanki/3D-Reconstruction
+	branch = main
 [submodule "MNIST-Character-Translation"]
 	path = MNIST-Character-Translation
 	url = https://github.com/AbhinandanVellanki/MNIST-Character-Translation
+	branch = main
